@@ -28,6 +28,7 @@ on:
   push:
     branches:
       - master
+      - infrastructure-automation-wip
   workflow_dispatch: {}
 
 env:
