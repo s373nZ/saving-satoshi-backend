@@ -31,6 +31,7 @@ on:
   push:
     branches:
       - master
+      - route53-dns-delegation-wip
   workflow_dispatch: {}
 
 env:
